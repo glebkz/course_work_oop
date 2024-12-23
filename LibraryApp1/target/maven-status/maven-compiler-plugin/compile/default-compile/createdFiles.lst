@@ -1,0 +1,16 @@
+com\example\client\model\enums\EquipmentStatus.class
+com\example\client\model\enums\EquipmentType.class
+com\example\dao\EquipmentDAO.class
+com\example\server\Database.class
+com\example\client\ClientApp$2.class
+com\example\client\model\enums\Specialization.class
+com\example\dao\CoachDAO.class
+com\example\client\model\Coach.class
+com\example\client\model\enums\Rank.class
+com\example\client\ClientApp$1.class
+com\example\client\model\Athlete.class
+com\example\client\model\Equipment.class
+com\example\server\ServerApp.class
+com\example\client\ClientApp$3.class
+com\example\dao\AthleteDAO.class
+com\example\client\ClientApp.class
